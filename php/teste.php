@@ -11,3 +11,6 @@ if($num <= 18){
     echo "Maior que 18" . PHP_EOL;
     echo $num3;
 }
+
+$teste = "teste para o git";
+$teste2 = "git teste";
